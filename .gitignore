@@ -16,6 +16,9 @@ build
 tmp
 dist
 
+# Other Configuration
+config
+
 # misc
 .DS_Store
 secure_connect_workshop.zip
